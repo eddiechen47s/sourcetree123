@@ -14,8 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         
-        
-        view.backgroundColor = .blue
+        print("ok")
+//        view.backgroundColor = .blue
     }
 
 
